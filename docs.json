@@ -3,12 +3,14 @@
   "theme": "almond",
   "name": "Jobr",
   "colors": {
-    "primary": "#040c2c"
+    "primary": "#5668ea",
+    "light": "#8b9bf5",
+    "dark": "#3c49c2"
   },
   "favicon": "/favicon.svg",
   "logo": {
     "light": "https://media.brand.dev/8d899515-c7ba-4054-ac6a-878007517d12.png",
-    "dark": "https://media.brand.dev/8d899515-c7ba-4054-ac6a-878007517d12.png"
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
@@ -72,6 +74,12 @@
   "footer": {
     "socials": {
       "linkedin": "https://www.linkedin.com/company/jobrco"
+    }
+  },
+  "background": {
+    "color": {
+      "light": "#ffffff",
+      "dark": "#0b0d14"
     }
   }
 }
