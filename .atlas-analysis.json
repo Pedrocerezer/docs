@@ -1,28 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+  "projectType": "saas",
+  "projectName": "Jobr",
+  "projectDescription": "Jobr builds, deploys, and manages custom AI employees that take over repetitive, high-volume business roles — from customer support and lead response to invoice processing and collections.",
   "theme": "almond",
-  "name": "Jobr",
-  "colors": {
-    "primary": "#040c2c"
-  },
-  "favicon": "/favicon.svg",
-  "logo": {
-    "light": "https://media.brand.dev/8d899515-c7ba-4054-ac6a-878007517d12.png",
-    "dark": "https://media.brand.dev/8d899515-c7ba-4054-ac6a-878007517d12.png"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Website",
-        "href": "https://www.jobrco.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Book a Call",
-      "href": "https://www.jobrco.com/#book"
-    }
-  },
+  "primaryColor": "#040c2c",
+  "lightColor": null,
+  "darkColor": null,
   "navigation": {
     "tabs": [
       {
@@ -69,9 +52,14 @@
       }
     ]
   },
-  "footer": {
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/jobrco"
-    }
-  }
+  "keyFeatures": [
+    "Custom-built AI employees tailored to each client's workflows and tone",
+    "Done-for-you deployment and ongoing management by Jobr",
+    "24/7 availability with sub-30-second response times",
+    "Human escalation with configurable guardrails and thresholds",
+    "Six core role types: Customer Support, Lead Response & Qualification, Invoice Processing, Collections, Scheduling, Resume Screening",
+    "Daily activity reports showing tasks handled and escalations",
+    "Fast onboarding — working AI employee live in weeks, not quarters"
+  ],
+  "publicApiSurface": []
 }
