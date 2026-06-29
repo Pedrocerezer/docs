@@ -10,7 +10,8 @@
   "favicon": "/favicon.png",
   "logo": {
     "light": "https://media.brand.dev/8d899515-c7ba-4054-ac6a-878007517d12.png",
-    "dark": "/logo/dark.png"
+    "dark": "/logo/dark.png",
+    "href": "https://www.jobrco.com"
   },
   "navbar": {
     "links": [
