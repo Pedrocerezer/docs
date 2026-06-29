@@ -82,5 +82,16 @@
       "light": "#ffffff",
       "dark": "#0b0d14"
     }
+  },
+  "description": "Jobr builds AI employees — AI agents that take over a full business role end to end. Done-for-you, deployed and operated by Jobr in weeks.",
+  "seo": {
+    "metatags": {
+      "robots": "index, follow",
+      "googlebot": "index, follow",
+      "canonical": "https://docs.jobrco.com",
+      "og:site_name": "Jobr",
+      "og:type": "website"
+    },
+    "indexing": "all"
   }
 }
